@@ -9,7 +9,7 @@ In the mobile app the script selection (on end selection mantipulation) availabl
 
 ![](https://github.com/sasukecodes/activity-tracker/blob/master/appsc.jpeg)
 
-the data entries can be seen on the above website
+the data entries can be seen on the above mentioned website
 
 ![](https://github.com/sasukecodes/activity-tracker/blob/master/Screenshot%20(262).png)
 
