@@ -1,5 +1,5 @@
 # mern stack project
-building using react, atlas (mongo-db), node and hosting on heroku
+built using react, atlas (mongo-db), node, hosting on heroku and app with unity
 
 https://mernactivitytracker.herokuapp.com/
 
